@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#00CCFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clock">#FFF1F1F1</color>
+    <color name="homeicons">#FA5194</color>
+    <color name="clear">#00FA5194</color>
+    <color name="clearhomeicons">#64FA5194</color>
+    <color name="homecards">#500CB1</color>
+    <color name="homecard2">#963BC7</color>
+    <color name="alarmbutton">#8660FF</color>
+    <color name="blvck">#FF1f1f1f</color>
+    <color name="lightblvck">#222222</color>
+    <color name="clearblvck">#641f1f1f</color>
+    <color name="darkdarkblvck">#050505</color>
+    <color name="darkblvck">#121212</color>
+    <color name="porcelain">#F3F3F3</color>
+    <color name="darkporcelain">#ACACAC</color>
+    <color name="gurablue">#005FA8</color>
+    <color name="button">#005FA8</color>
+    <color name="clearbutton">#A9005FA8</color>
+</resources>

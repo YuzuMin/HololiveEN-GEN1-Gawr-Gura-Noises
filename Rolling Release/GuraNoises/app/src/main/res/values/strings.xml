@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gura Noises</string>
+    <string name="app_version">5.5.0</string>
+    <string name="press_gura">Press Gura!</string>
+</resources>

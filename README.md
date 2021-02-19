@@ -1,2 +1,2 @@
 # HololiveEN GEN1 Gawr Gura Noises
- GitHub Repository for Gura Noises Android App
+ GitHub repository for Gura Noises Android App

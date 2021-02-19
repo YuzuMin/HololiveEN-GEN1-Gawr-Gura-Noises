@@ -19,56 +19,56 @@ The interface of Gura Noises is designed to be simple, intuitive and efficient. 
 GNU General Public License V3
 
 # List of Noises
-* guranoise1 AAAAAAAAAAA!!
-* guranoise2 Oh?!
-* guranoise3 Everyone my friend
-* guranoise4 You are my little pogchamp
-* guranoise5 *blessed evil laugh*
-* guranoise6 I am angry
-* guranoise7 Watashi Ikatteiru
-* guranoise8 Anata denwa yo
-* guranoise9 MMMMM!!
-* guranoise10 Iyada x4
-* guranoise11 Tenshi Breathing
-* guranoise12 Yabai yabai
-* guranoise13 Gawr Gura headpats
-* guranoise14 Ollie Chan I love you 
-* guranoise15 Shinu
-* guranoise16 10Q Arigatou
-* guranoise17 Nyaaa~~
-* guranoise18 Omedetou Hapi Basuday
-* guranoise19 Big yabe
-* guranoise20 Moe Moe Kyun
-* guranoise21 NNNNNNNN!
-* guranoise22 Nico Nico Nii
-* guranoise23 Nice to Meet You
-* guranoise24 NEEEEEEEEEEEE!!!
-* guranoise25 omae wa mou shindeiru 
-* guranoise26 omae wa mou shindeiru ASMR
-* guranoise27 LMAO
-* guranoise28 Big Kusa
-* guranoise29 Tenshi Giggle
-* guranoise30 ABC Song
-* guranoise31 HMPH
-* guranoise32 Hey Moona
-* guranoise33 Almond Almond
-* guranoise34 Heavy Breathing
-* guranoise35 Arigato Minna
-* guranoise36 Everyone is my husband, Okay
-* guranoise37 BUN BUN CHA
-* guranoise38 Onii Chan
-* guranoise39 Papa
-* guranoise40 Ara Ara
-* guranoise41 Gura Pop Pop
-* guranoise42 Step Bro Nani o shimasu ka
-* guranoise43 Yoshi Yoshi Good Boy
-* guranoise44 Yo Wazzup
-* guranoise45 I Love Everyone
-* guranoise46 Bye Bye
-* guranoise47 WAAAAAA!
-* guranoise48 Watafaq
-* guranoise49 Im Die Thank You 4ever
-* guranoise50 Tenshi Noises
+* guranoise1 A
+* guranoise2 Ehh
+* guranoise3 Ahh
+* guranoise4 Ara Ara
+* guranoise5 NOOOOOO!
+* guranoise6 Hey that's pretty good
+* guranoise7 Lewd A
+* guranoise8 Wake Up
+* guranoise9 OK?
+* guranoise10 JA JANG
+* guranoise11 Uhh
+* guranoise12 Onii Chan
+* guranoise13 Do you want my seed?
+* guranoise14 OOO
+* guranoise15 No Problem
+* guranoise16 *clearing throat*
+* guranoise17 *realizes mic on*
+* guranoise18 Hi
+* guranoise19 Uh Oh
+* guranoise20 *tongue noise*
+* guranoise21 Yeah
+* guranoise22 *awkward greeting*
+* guranoise23 *frustrated noises*
+* guranoise24 Hey guys what's up?
+* guranoise25 Oh no not the water monster 
+* guranoise26 *table noises*
+* guranoise27 *self introduction*
+* guranoise28 Dame Da Ne
+* guranoise29 *MIxed Noises*
+* guranoise30 *Ring Fit Noises*
+* guranoise31 It's Slipping!
+* guranoise32 I need to put it on my skin
+* guranoise33 Oh Man x7
+* guranoise34 Stop being a NEET
+* guranoise35 *Crying Noises*
+* guranoise36 I'm wearing a tracksuit
+* guranoise37 *Sad Thank You*
+* guranoise38 Eating Mike Tyson
+* guranoise39 Eating Mike Tyson's Ass
+* guranoise40 *Vibing to BGM*
+* guranoise41 Nyawr
+* guranoise42 Hi Chat, Domo
+* guranoise43 Domo, Sama Desu Nya
+* guranoise44 Minnya
+* guranoise45 It's not lewd
+* guranoise46 Stop it
+* guranoise47 Gura liked to lick her toys*
+* guranoise48 Hey Vsauce,Gura here
+* guranoise49 Are ya winning Gura?
+* guranoise50 You can't be mad at me, I'm cute
 
 
       

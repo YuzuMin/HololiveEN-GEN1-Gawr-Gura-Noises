@@ -12,11 +12,10 @@ The interface of Gura Noises is designed to be simple, intuitive and efficient. 
 
 # Features
 * 100 Noises
-* Alarm Clock
-* Google Drive Download
+* GitHub Download
 
 # License
-GNU General Public License V3
+MIT License
 
 # List of Noises
 * guranoise1 A
